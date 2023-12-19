@@ -1,0 +1,5 @@
+streamlit==1.29.0
+googletrans==4.0.0-rc1
+requests==2.26.0
+pydub==0.25.1 
+gTTS==2.2.3

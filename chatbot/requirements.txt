@@ -3,4 +3,3 @@ googletrans==4.0.0-rc1
 requests>=2.27,<3
 pydub==0.25.1 
 gTTS==2.2.3
-x

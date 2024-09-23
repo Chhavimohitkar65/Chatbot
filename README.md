@@ -1,4 +1,4 @@
-# 🌟 Aawaz: Indian Railways Information Hub 🚆
+# 🌟 Aawaz: Indian Railways Information Hub ChatBot🚆
 
 Welcome to **Aawaz**, a Streamlit web application designed to provide essential information related to Indian Railways. With features like PNR status checking, live train status updates, and language translation, Aawaz aims to enhance user experience and accessibility.
 
